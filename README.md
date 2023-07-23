@@ -1,2 +1,2 @@
-# corporate-banking-user-service
-User management microservice for corporate banking
+# palscheck micro service template
+template management microservice for palscheck
