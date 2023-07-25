@@ -1,2 +1,2 @@
-# palscheck-service-template
-service template for all server services
+# palscheck micro service template
+template management microservice for palscheck
