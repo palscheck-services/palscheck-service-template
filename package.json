@@ -5,7 +5,9 @@
   "repository": "git@github.com:palscheck-services/palscheck-service-template.git",
   "license": "MIT",
   "dependencies": {
+    "@types/amqplib": "0.10.1",
     "@types/morgan": "1.9.4",
+    "amqplib": "0.10.3",
     "bcryptjs": "2.4.3",
     "cors": "^2.8.5",
     "crypto-js": "4.1.1",
